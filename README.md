@@ -1,6 +1,6 @@
 # Discourse Scraper
 
-This script allows you to create markdown files from every topic you have access to on your Discourse instance.
+This script allows you to create markdown files from every topic you have access to on your Discourse instance by ID.
 
 ## Configuration
 
