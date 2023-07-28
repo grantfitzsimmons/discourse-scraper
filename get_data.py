@@ -43,7 +43,7 @@ def download_files(file_urls, save_directory, api_key):
     print('Download complete!')
 
 # Set the base URL and range of file numbers
-base_url = 'https://discourse.specifysoftware.org/raw/'
+base_url = 'https://discourse.your-site.org/raw/'
 start_num = 1
 end_num = 1246
 
